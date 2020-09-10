@@ -42,7 +42,7 @@ public class string {
 		char hh = str.charAt(7);
 		System.out.println(hh);
 		
-		System.out.print(s + "" + i + "" + t + "" + ii + "" + v + "" + r + "" + a + "" + h + "" + m + "" + aa + "" + hh);
+		System.out.println(s + "" + i + "" + t + "" + ii + "" + v + "" + r + "" + a + "" + h + "" + m + "" + aa + "" + hh);
 				
 	}
 }
